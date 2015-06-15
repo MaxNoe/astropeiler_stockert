@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.swp
+build/
+__pycache__
+*.pyc
