@@ -10,6 +10,12 @@ git annex get .
 ```
 Or instead of the dot any file you want to download
 
+You can get all needed python packages with
+```
+pip install -r requirements.txt
+```
+They are also included in anaconda
+
 ## Resolution 
 * data/sto25_CAS_A_cont_10781.csv
 * Cassiopaia A
