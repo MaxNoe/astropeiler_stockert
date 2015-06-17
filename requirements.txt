@@ -2,4 +2,4 @@ pandas
 numpy
 scipy
 matplotlib >= 1.4
-"ipython[notebook]"
+ipython[notebook]
